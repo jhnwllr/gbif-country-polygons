@@ -2,6 +2,10 @@
 
 A GeoPackage file containing political/country boundary polygons from GBIF (Global Biodiversity Information Facility).
 
+## Related Projects
+
+This dataset is used by [gbif-geocode](https://github.com/jhnwllr/gbif-geocode) for geocoding operations.
+
 ## Contents
 
 - `political.gpkg` - GeoPackage file with country polygon data
